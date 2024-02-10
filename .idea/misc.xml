@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/title01/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

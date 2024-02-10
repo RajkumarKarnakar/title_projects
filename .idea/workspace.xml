@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c1716a-dee0-4258-902f-0f84f6a61054" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/ActiveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/EmployeeProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/RetiredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/ActiveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/EmployeeProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/RetiredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/ActiveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/EmployeeProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/RetiredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/01_07_end/lil-jpa-1-7/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/02_09_end/lil-jpa-2-9/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/03_13_end/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/04_05_end/lil-jpa-4-5/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_begin/lil-jpa/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_Java_Persistence_JPA/Exercise Files/05_08_end/lil-jpa-5-8/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cAz3p4UO54rgX9wosaaW9HL1mK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/_git_projects/title_projects"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c1716a-dee0-4258-902f-0f84f6a61054" name="Changes" comment="" />
+      <created>1707568974358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707568974358</updated>
+    </task>
+    <servers />
+  </component>
+</project>

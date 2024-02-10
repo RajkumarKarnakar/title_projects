@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lil-jpa (7)" />
+        <module name="lil-jpa (8)" />
+        <module name="lil-jpa (9)" />
+        <module name="lil-jpa" />
+        <module name="lil-jpa (1)" />
+        <module name="lil-jpa (2)" />
+        <module name="lil-jpa (3)" />
+        <module name="title01" />
+        <module name="lil-jpa (4)" />
+        <module name="lil-jpa (5)" />
+        <module name="lil-jpa (6)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
