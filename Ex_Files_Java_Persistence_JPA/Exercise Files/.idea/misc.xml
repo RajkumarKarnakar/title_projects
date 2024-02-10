@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_07_end/lil-jpa-1-7/pom.xml" />
+        <option value="$PROJECT_DIR$/02_09_end/lil-jpa-2-9/pom.xml" />
+        <option value="$PROJECT_DIR$/03_13_end/lil-jpa-3-13/pom.xml" />
+        <option value="$PROJECT_DIR$/04_05_end/lil-jpa-4-5/pom.xml" />
+        <option value="$PROJECT_DIR$/05_08_end/lil-jpa-5-8/pom.xml" />
+        <option value="$PROJECT_DIR$/01_07_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/02_09_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/03_13_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/04_05_begin/lil-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/05_08_begin/lil-jpa/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
