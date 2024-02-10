@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f15d0f3-c5e3-4895-9551-25db18f76c44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/ActiveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/EmployeeProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/RetiredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/CompanyRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/repository/SalaryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/java/com/linkedinlearning/jpa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/com/linkedinlearning/jpa/repository/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/lil-jpa-3-13/target/classes/com/linkedinlearning/jpa/entity/Employee.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lil-jpa-3-13" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GsICnJUEm1Oe6iDh0av06HHysZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="useFileNestingRules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f15d0f3-c5e3-4895-9551-25db18f76c44" name="Changes" comment="" />
+      <created>1667170740380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667170740380</updated>
+    </task>
+    <servers />
+  </component>
+</project>
