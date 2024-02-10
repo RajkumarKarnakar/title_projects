@@ -4,8 +4,6 @@ import jakarta.persistence.*;
 
 import java.io.Serializable;
 
-@Entity
-@Table(name = "companies")
 public class Company implements Serializable {
 
     @Id
@@ -45,6 +43,10 @@ public class Company implements Serializable {
         this.state = state;
         this.zipcode = zipcode;
         this.country = country;
+        this.name = name;
+    }
+
+    public Company(String name) {
         this.name = name;
     }
 

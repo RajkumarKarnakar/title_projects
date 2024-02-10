@@ -1,0 +1,10 @@
+com\learn\jpa\entity\Salary.class
+com\learn\jpa\repository\CompanyRepository.class
+com\learn\jpa\repository\CompanyRepositoryImpl.class
+com\learn\jpa\entity\Employee.class
+com\learn\jpa\repository\EmployeeRepositoryImpl.class
+com\learn\jpa\Main.class
+com\learn\jpa\repository\EmployeeRepository.class
+com\learn\jpa\entity\Company.class
+com\learn\jpa\repository\SalaryRepository.class
+com\learn\jpa\repository\SalaryRepositoryImpl.class

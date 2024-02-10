@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 @Entity
 @Table(name = "employees")
+@Inheritance(strategy=InheritanceType.SINGLE_TABLE)
 public class Employee implements Serializable {
 
     @Id
@@ -25,14 +26,22 @@ public class Employee implements Serializable {
     @Transient
     private Double totalCompensation;
 
+    @Column
+    private Salary salary;
+
+    @Column
+    private Company company;
+
     public Employee() {
     }
 
-    public Employee(Long id, String fName, String lName, Integer yearsExperience) {
+    public Employee(Long id, String fName, String lName, Integer yearsExperience, Company company, Salary salary) {
         this.id = id;
         this.fName = fName;
         this.lName = lName;
         this.yearsExperience = yearsExperience;
+        this.company = company;
+        this.salary = salary;
     }
 
     public Long getId() {
@@ -75,5 +84,19 @@ public class Employee implements Serializable {
         this.totalCompensation = totalCompensation;
     }
 
-}
+    public Salary getSalary() {
+        return salary;
+    }
 
+    public void setSalary(Salary salary) {
+        this.salary = salary;
+    }
+
+    public Company getCompany() {
+        return company;
+    }
+
+    public void setCompany(Company company) {
+        this.company = company;
+    }
+}

@@ -1,2 +1,10 @@
-D:\_git_projects\title_projects\jpa01\src\main\java\com\learn\jpa\entity\S.java
-D:\_git_projects\title_projects\jpa01\src\main\java\com\learn\jpa\entity\Company.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\entity\Salary.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\CompanyRepositoryImpl.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\entity\Company.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\SalaryRepository.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\entity\Employee.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\Main.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\EmployeeRepository.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\SalaryRepositoryImpl.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\CompanyRepository.java
+D:\_git_projects\title_projects\jpa_employee\src\main\java\com\learn\jpa\repository\EmployeeRepositoryImpl.java
